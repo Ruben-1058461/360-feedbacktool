@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+
+.container-fluid {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1440px;
+  padding: 0 15px;
+}
+
+.card-count {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+}
